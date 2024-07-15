@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("DAL_QLKhoHang")]
+[assembly: AssemblyTitle("DAL_QLKHOHANG")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("DAL_QLKhoHang")]
+[assembly: AssemblyProduct("DAL_QLKHOHANG")]
 [assembly: AssemblyCopyright("Copyright ©  2024")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("75be1069-f8d1-4320-be69-bcff1bc4643b")]
+[assembly: Guid("3a3a6d44-6741-439b-ab8e-c2daaa12d0ae")]
 
 // Version information for an assembly consists of the following four values:
 //

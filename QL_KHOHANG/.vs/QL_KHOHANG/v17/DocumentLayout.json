@@ -1,0 +1,206 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\D\u1EF1 \u00E1n 1\\QL_KhoHang-master\\QL_KHOHANG\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{63AFDF9D-83DF-4C52-8AFE-6032CD77FC95}|..\\GUI_QLKHOHANG\\GUI_QLKHOHANG.csproj|d:\\d\u1EF1 \u00E1n 1\\ql_khohang-master\\gui_qlkhohang\\nhanvienn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63AFDF9D-83DF-4C52-8AFE-6032CD77FC95}|..\\GUI_QLKHOHANG\\GUI_QLKHOHANG.csproj|d:\\d\u1EF1 \u00E1n 1\\ql_khohang-master\\gui_qlkhohang\\nhanvienn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63AFDF9D-83DF-4C52-8AFE-6032CD77FC95}|..\\GUI_QLKHOHANG\\GUI_QLKHOHANG.csproj|d:\\d\u1EF1 \u00E1n 1\\ql_khohang-master\\gui_qlkhohang\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63AFDF9D-83DF-4C52-8AFE-6032CD77FC95}|..\\GUI_QLKHOHANG\\GUI_QLKHOHANG.csproj|d:\\d\u1EF1 \u00E1n 1\\ql_khohang-master\\gui_qlkhohang\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63AFDF9D-83DF-4C52-8AFE-6032CD77FC95}|..\\GUI_QLKHOHANG\\GUI_QLKHOHANG.csproj|d:\\d\u1EF1 \u00E1n 1\\ql_khohang-master\\gui_qlkhohang\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63AFDF9D-83DF-4C52-8AFE-6032CD77FC95}|..\\GUI_QLKHOHANG\\GUI_QLKHOHANG.csproj|d:\\d\u1EF1 \u00E1n 1\\ql_khohang-master\\gui_qlkhohang\\tkkh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63AFDF9D-83DF-4C52-8AFE-6032CD77FC95}|..\\GUI_QLKHOHANG\\GUI_QLKHOHANG.csproj|d:\\d\u1EF1 \u00E1n 1\\ql_khohang-master\\gui_qlkhohang\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63AFDF9D-83DF-4C52-8AFE-6032CD77FC95}|..\\GUI_QLKHOHANG\\GUI_QLKHOHANG.csproj|d:\\d\u1EF1 \u00E1n 1\\ql_khohang-master\\gui_qlkhohang\\phieunhapkho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63AFDF9D-83DF-4C52-8AFE-6032CD77FC95}|..\\GUI_QLKHOHANG\\GUI_QLKHOHANG.csproj|d:\\d\u1EF1 \u00E1n 1\\ql_khohang-master\\gui_qlkhohang\\nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63AFDF9D-83DF-4C52-8AFE-6032CD77FC95}|..\\GUI_QLKHOHANG\\GUI_QLKHOHANG.csproj|d:\\d\u1EF1 \u00E1n 1\\ql_khohang-master\\gui_qlkhohang\\phieunhapkho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 266,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NhanVienn.cs",
+              "DocumentMoniker": "D:\\D\u1EF1 \u00E1n 1\\QL_KhoHang-master\\GUI_QLKHOHANG\\NhanVienn.cs",
+              "RelativeDocumentMoniker": "..\\GUI_QLKHOHANG\\NhanVienn.cs",
+              "ToolTip": "D:\\D\u1EF1 \u00E1n 1\\QL_KhoHang-master\\GUI_QLKHOHANG\\NhanVienn.cs*",
+              "RelativeToolTip": "..\\GUI_QLKHOHANG\\NhanVienn.cs*",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAuwB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T10:50:37.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormMain.cs",
+              "DocumentMoniker": "D:\\D\u1EF1 \u00E1n 1\\QL_KhoHang-master\\GUI_QLKHOHANG\\FormMain.cs",
+              "RelativeDocumentMoniker": "..\\GUI_QLKHOHANG\\FormMain.cs",
+              "ToolTip": "D:\\D\u1EF1 \u00E1n 1\\QL_KhoHang-master\\GUI_QLKHOHANG\\FormMain.cs*",
+              "RelativeToolTip": "..\\GUI_QLKHOHANG\\FormMain.cs*",
+              "ViewState": "AQIAAA4AAAAAAAAAAAA8wB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T08:34:38.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormMain.cs [Design]",
+              "DocumentMoniker": "D:\\D\u1EF1 \u00E1n 1\\QL_KhoHang-master\\GUI_QLKHOHANG\\FormMain.cs",
+              "RelativeDocumentMoniker": "..\\GUI_QLKHOHANG\\FormMain.cs",
+              "ToolTip": "D:\\D\u1EF1 \u00E1n 1\\QL_KhoHang-master\\GUI_QLKHOHANG\\FormMain.cs [Design]*",
+              "RelativeToolTip": "..\\GUI_QLKHOHANG\\FormMain.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T08:34:13.726Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "User.cs [Design]",
+              "DocumentMoniker": "D:\\D\u1EF1 \u00E1n 1\\QL_KhoHang-master\\GUI_QLKHOHANG\\User.cs",
+              "RelativeDocumentMoniker": "..\\GUI_QLKHOHANG\\User.cs",
+              "ToolTip": "D:\\D\u1EF1 \u00E1n 1\\QL_KhoHang-master\\GUI_QLKHOHANG\\User.cs [Design]",
+              "RelativeToolTip": "..\\GUI_QLKHOHANG\\User.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T14:01:02.21Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TKKH.cs [Design]",
+              "DocumentMoniker": "D:\\D\u1EF1 \u00E1n 1\\QL_KhoHang-master\\GUI_QLKHOHANG\\TKKH.cs",
+              "RelativeDocumentMoniker": "..\\GUI_QLKHOHANG\\TKKH.cs",
+              "ToolTip": "D:\\D\u1EF1 \u00E1n 1\\QL_KhoHang-master\\GUI_QLKHOHANG\\TKKH.cs [Design]",
+              "RelativeToolTip": "..\\GUI_QLKHOHANG\\TKKH.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T14:00:58.049Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NhanVienn.cs [Design]",
+              "DocumentMoniker": "D:\\D\u1EF1 \u00E1n 1\\QL_KhoHang-master\\GUI_QLKHOHANG\\NhanVienn.cs",
+              "RelativeDocumentMoniker": "..\\GUI_QLKHOHANG\\NhanVienn.cs",
+              "ToolTip": "D:\\D\u1EF1 \u00E1n 1\\QL_KhoHang-master\\GUI_QLKHOHANG\\NhanVienn.cs [Design]*",
+              "RelativeToolTip": "..\\GUI_QLKHOHANG\\NhanVienn.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T15:53:01.17Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PhieuNhapKho.cs [Design]",
+              "DocumentMoniker": "D:\\D\u1EF1 \u00E1n 1\\QL_KhoHang-master\\GUI_QLKHOHANG\\PhieuNhapKho.cs",
+              "RelativeDocumentMoniker": "..\\GUI_QLKHOHANG\\PhieuNhapKho.cs",
+              "ToolTip": "D:\\D\u1EF1 \u00E1n 1\\QL_KhoHang-master\\GUI_QLKHOHANG\\PhieuNhapKho.cs [Design]",
+              "RelativeToolTip": "..\\GUI_QLKHOHANG\\PhieuNhapKho.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T13:53:01.578Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "NhanVien.cs [Design]",
+              "DocumentMoniker": "D:\\D\u1EF1 \u00E1n 1\\QL_KhoHang-master\\GUI_QLKHOHANG\\NhanVien.cs",
+              "RelativeDocumentMoniker": "..\\GUI_QLKHOHANG\\NhanVien.cs",
+              "ToolTip": "D:\\D\u1EF1 \u00E1n 1\\QL_KhoHang-master\\GUI_QLKHOHANG\\NhanVien.cs [Design]",
+              "RelativeToolTip": "..\\GUI_QLKHOHANG\\NhanVien.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T14:00:28.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Task.cs [Design]",
+              "DocumentMoniker": "D:\\D\u1EF1 \u00E1n 1\\QL_KhoHang-master\\GUI_QLKHOHANG\\Task.cs",
+              "RelativeDocumentMoniker": "..\\GUI_QLKHOHANG\\Task.cs",
+              "ToolTip": "D:\\D\u1EF1 \u00E1n 1\\QL_KhoHang-master\\GUI_QLKHOHANG\\Task.cs [Design]",
+              "RelativeToolTip": "..\\GUI_QLKHOHANG\\Task.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T13:44:22.33Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PhieuNhapKho.cs",
+              "DocumentMoniker": "D:\\D\u1EF1 \u00E1n 1\\QL_KhoHang-master\\GUI_QLKHOHANG\\PhieuNhapKho.cs",
+              "RelativeDocumentMoniker": "..\\GUI_QLKHOHANG\\PhieuNhapKho.cs",
+              "ToolTip": "D:\\D\u1EF1 \u00E1n 1\\QL_KhoHang-master\\GUI_QLKHOHANG\\PhieuNhapKho.cs",
+              "RelativeToolTip": "..\\GUI_QLKHOHANG\\PhieuNhapKho.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAuwBQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T07:49:08.161Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 111,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

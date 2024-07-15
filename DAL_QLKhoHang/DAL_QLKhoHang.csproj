@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>75be1069-f8d1-4320-be69-bcff1bc4643b</ProjectGuid>
+    <ProjectGuid>3a3a6d44-6741-439b-ab8e-c2daaa12d0ae</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>DAL_QLKhoHang</RootNamespace>
-    <AssemblyName>DAL_QLKhoHang</AssemblyName>
+    <RootNamespace>DAL_QLKHOHANG</RootNamespace>
+    <AssemblyName>DAL_QLKHOHANG</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <Deterministic>true</Deterministic>

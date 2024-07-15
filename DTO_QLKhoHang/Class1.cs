@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace DTO_QLKhoHang
+namespace DTO_QLKHOHANG
 {
     public class Class1
     {
